@@ -1,0 +1,19 @@
+title: "Shiva Sai Krishna — Data Science Portfolio"
+description: "Personal website | IISc Bengaluru | Dream Lab"
+theme: jekyll-theme-cayman
+
+# Navigation Links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "Visualizations"
+    url: /visualizations
+
+# Social Links (you can fill these later)
+author:
+  name: "Shiva Sai Krishna Anand Tokal"
+  email: "shiva@iisc.ac.in"
+  github: "shiva-sai-krishna"
+
