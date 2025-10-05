@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+
+    <!-- ✅ Navigation Bar -->
+    <nav style="background-color:#0366d6; padding:10px; text-align:center;">
+      <a href="{{ '/' | relative_url }}" style="color:white; margin:0 15px; text-decoration:none; font-weight:bold;">Home</a>
+      <a href="{{ '/projects' | relative_url }}" style="color:white; margin:0 15px; text-decoration:none; font-weight:bold;">Projects</a>
+      <a href="{{ '/visualizations' | relative_url }}" style="color:white; margin:0 15px; text-decoration:none; font-weight:bold;">Visualizations</a>
+    </nav>
+
+    <section style="max-width:900px; margin:40px auto; padding:20px;">
+      {{ content }}
+    </section>
+
+    <footer style="text-align:center; padding:20px; font-size:0.9em; color:gray;">
+      © {{ site.time | date: '%Y' }} {{ site.title }} | Built with GitHub Pages & Jekyll
+    </footer>
+  </body>
+</html>
