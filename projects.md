@@ -5,15 +5,14 @@ title: "Projects"
 
 # 💻 Projects
 
-### 🧠 Project 1: Intelligent Job Recommendation System
-Built an AI-powered recommendation model for matching job seekers with industry postings using transformer embeddings and cosine similarity.
-
-### 🧮 Project 2: Large-Scale Data Pipeline for IoT Sensors
-Developed a Spark-based system to process millions of IoT sensor readings in real time for smart city analytics.
-
-### 🔍 Project 3: Text Summarization for Indian Legal Documents
-Implemented a BERT-based summarizer optimized for multi-lingual Indian datasets (English + Hindi).
+### [Face Recognition Project](https://github.com/Shiva-sai-krishna/Face-Recognition)
+A machine learning project designed to recognize faces in video streams and return video clips using **OpenCV**, **Python**, and **Dlib**.  
+> Focused on real-time processing and feature extraction efficiency.
 
 ---
 
-> 🔗 View all project repositories on [GitHub →](https://github.com/shiva-sai-krishna)
+### [Calculator Application](https://github.com/Shiva-sai-krishna/Calculator)
+An Android-based calculator app featuring a robust UI for performing complex arithmetic operations.  
+> Built using **Java** and **XML**, with emphasis on intuitive layout and modular architecture.
+
+---

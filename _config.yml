@@ -1,19 +1,18 @@
-title: "Shiva Sai Krishna — Data Science Portfolio"
-description: "Personal website | IISc Bengaluru | Dream Lab"
+title: "Shiva Sai Krishna Anand Tokal"
+description: "MTech (Research) @ DREAM::LAB | CDS | IISc Bengaluru"
 theme: jekyll-theme-cayman
 
-# Navigation Links
+# Navigation Menu
 nav:
-  - title: "Home"
+  - title: "Resume & Research"
     url: /
   - title: "Projects"
     url: /projects
   - title: "Visualizations"
     url: /visualizations
 
-# Social Links (you can fill these later)
 author:
   name: "Shiva Sai Krishna Anand Tokal"
-  email: "shiva@iisc.ac.in"
-  github: "shiva-sai-krishna"
-
+  email: "shivakrishnaanand@gmail.com"
+  github: "Shiva-sai-krishna"
+  linkedin: "shiva-sai-krishna"

@@ -3,22 +3,25 @@ layout: default
 title: "Visualizations"
 ---
 
-# 📊 Data Science Visualizations
+# Data Science Visualizations
 
-A collection of plots and insights generated from my research work and experiments.
-
----
-
-### 🔹 Visualization 1: Distribution of Research Paper Citations
-![Citation Plot](assets/images/plot1.png)
-
-### 🔹 Visualization 2: Model Accuracy Comparison
-![Accuracy Comparison](assets/images/plot2.png)
-
-### 🔹 Visualization 3: Network Latency Heatmap
-![Latency Heatmap](assets/images/plot3.png)
+This section showcases sample data science visualizations created as part of my **DS200** research experiments.  
+All plots are generated using **Python (Matplotlib & Seaborn)**.  
+[View source code on GitHub →](https://github.com/Shiva-sai-krishna/DS200)
 
 ---
 
-> All plots are generated using **Matplotlib** and **Seaborn** in Python.
+### Plot 1: Model Accuracy Trends
+![Plot 1](assets/images/plot1.png)
 
+---
+
+### Plot 2: Correlation Heatmap of Agent Patterns
+![Plot 2](assets/images/plot2.png)
+
+---
+
+### Plot 3: Task Latency vs Agent Type
+![Plot 3](assets/images/plot3.png)
+
+---
